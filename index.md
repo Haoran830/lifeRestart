@@ -1,3 +1,3 @@
 # Life Restart
 
-やり直すんだ。そして、次はうまくやる。[RESTART](view/index.html)
+对啊，怎么就搞不成呢。[RESTART](view/index.html)
